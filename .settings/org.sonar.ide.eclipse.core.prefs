@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=com.example\:simple-service
+serverUrl=http\://sonar.sicoob.com.br/sonar
+version=2

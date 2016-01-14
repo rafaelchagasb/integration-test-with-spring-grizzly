@@ -7,7 +7,7 @@
 	<artifactId>projeto-base</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>simple-service</name>
+	<name>Projeto Base</name>
 	
 	<dependencyManagement>
 		<dependencies>

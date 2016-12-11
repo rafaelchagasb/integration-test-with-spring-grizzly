@@ -1,3 +1,5 @@
+# Projeto configurado com testes de integração utilizando o Spring e Grizzly.
+
 Tecnologias utilizadas:
 * Angular
 * Spring
